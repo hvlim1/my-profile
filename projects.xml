@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<projects>
+
+    <project>
+        <title>Original Songwriting</title>
+        <description>
+            Creating original songs by writing lyrics and
+            experimenting with melodies, chords, and musical
+            arrangements to express ideas and emotions.
+        </description>
+        <date>2026-10-24</date>
+    </project>
+
+    <project>
+        <title>Music Video Production</title>
+
+        <description>
+            Using multimedia elements such as video clips,
+            images, transitions, and music to create music
+            videos that communicate a song's message and mood.
+        </description>
+
+        <date>2026-10-24</date>
+    </project>
+
+    <project>
+        <title>Multimedia Music Covers</title>
+
+        <description>
+            Creating song covers by combining musical
+            performances with video editing, visual effects,
+            and other creative elements to produce engaging
+            audiovisual content.
+        </description>
+
+        <date>2026-10-24</date>
+    </project>
+
+</projects>
